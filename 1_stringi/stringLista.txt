@@ -1,0 +1,7 @@
+string str = "abc";
+
+str[0] - wypisuje znak o podanym indexie
+
+str.Equals("abc") - sprawdza czy podane wartości są zgodne (uwzględnia wielkość znaków)
+
+str.indexOf('a')

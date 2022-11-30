@@ -1,5 +1,5 @@
 ﻿try {
-    Console.WriteLine("Ala ma kota.");
+    Console.WriteLine(" Ala ma kota."[-1]);
     Console.WriteLine();
 }
 catch(Exception e) {
